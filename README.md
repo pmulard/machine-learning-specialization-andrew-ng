@@ -15,7 +15,7 @@ Implementations are completed using Jupyter Notebooks and Python.
 </p>
 
 ## Programming Assignments
-1. [Linear Regression]()
+1. [Linear Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Linear_Regression.ipynb)
 2. []()
 3. []()
 4. []()

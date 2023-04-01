@@ -15,7 +15,7 @@ Implementations are completed using Jupyter Notebooks and Python.
 </p>
 
 ## Programming Assignments
-1. []()
+1. [Linear Regression]()
 2. []()
 3. []()
 4. []()

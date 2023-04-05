@@ -39,3 +39,4 @@ I originally wrote these notes in Notion, which I've provided links for, but I'v
 
 - Linear Regression: [Notion](https://pmulard.notion.site/Linear-Regression-82a77381f9504a65bcd8e1ae545aa4ed) | [PDF]()
 - Gradient Descent: [Notion](https://pmulard.notion.site/Gradient-Descent-c8b5b3024f334f77bf2ee2016c0cdf69) | [PDF]()
+- Logistic Regression: [Notion](https://www.notion.so/pmulard/Logistic-Regression-a55b93f722284e9ea110c6eb8ba6e49f?pvs=4) | [PDF]()

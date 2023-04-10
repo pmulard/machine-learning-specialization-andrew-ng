@@ -17,7 +17,7 @@ Implementations are completed using Jupyter Notebooks and Python.
 ## Programming Assignments
 1. [Linear Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Linear_Regression.ipynb)
 2. [Logistic Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Logistic_Regression.ipynb)
-3. []()
+3. [Multi-class Classification and Neural Networks]()
 4. []()
 5. []()
 6. []()
@@ -40,3 +40,4 @@ I originally wrote these notes in Notion, which I've provided links for, but I'v
 - Linear Regression: [Notion](https://pmulard.notion.site/Linear-Regression-82a77381f9504a65bcd8e1ae545aa4ed) | [PDF]()
 - Gradient Descent: [Notion](https://pmulard.notion.site/Gradient-Descent-c8b5b3024f334f77bf2ee2016c0cdf69) | [PDF]()
 - Logistic Regression: [Notion](https://www.notion.so/pmulard/Logistic-Regression-a55b93f722284e9ea110c6eb8ba6e49f?pvs=4) | [PDF]()
+- Neural Networks: [Notion](https://www.notion.so/pmulard/Neural-Networks-7dd29cd37a024473ad3ca8caf3521be9?pvs=4) | [PDF]()

@@ -18,7 +18,7 @@ Implementations are completed using Jupyter Notebooks and Python.
 1. [Linear Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Linear_Regression.ipynb)
 2. [Logistic Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Logistic_Regression.ipynb)
 3. [Multiclass Classification and Neural Networks](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Multi-class_Classification_and_Neural_Networks.ipynb)
-4. [Neural Networks for Multiclass Classification]()
+4. [Neural Networks for Multiclass Classification](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Neural_Networks_for_Multiclass_Classification.ipynb)
 5. []()
 6. []()
 7. []()

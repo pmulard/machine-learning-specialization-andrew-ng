@@ -19,8 +19,8 @@ Implementations are completed using Jupyter Notebooks and Python.
 2. [Logistic Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Logistic_Regression.ipynb)
 3. [Multiclass Classification and Neural Networks](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Multi-class_Classification_and_Neural_Networks.ipynb)
 4. [Neural Networks for Multiclass Classification](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Neural_Networks_for_Multiclass_Classification.ipynb)
-5. []()
-6. []()
+5. [Advice for Applying Machine Learning]()
+6. [Decision Trees]()
 7. []()
 8. []()
 
@@ -41,3 +41,4 @@ I originally wrote these notes in Notion, which I've provided links for, but I'v
 - Gradient Descent: [Notion](https://pmulard.notion.site/Gradient-Descent-c8b5b3024f334f77bf2ee2016c0cdf69) | [PDF]()
 - Logistic Regression: [Notion](https://www.notion.so/pmulard/Logistic-Regression-a55b93f722284e9ea110c6eb8ba6e49f?pvs=4) | [PDF]()
 - Neural Networks: [Notion](https://www.notion.so/pmulard/Neural-Networks-7dd29cd37a024473ad3ca8caf3521be9?pvs=4) | [PDF]()
+- Practical Machine Learning: [Notion](https://pmulard.notion.site/Practical-Machine-Learning-28f12b4adb1946ad9da5d24b75e41ee5) | [PDF]()

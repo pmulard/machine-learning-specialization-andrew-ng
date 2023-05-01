@@ -44,3 +44,4 @@ I originally wrote these notes in Notion, which I've provided links for, but I'v
 - Practical Machine Learning: [Notion](https://pmulard.notion.site/Practical-Machine-Learning-28f12b4adb1946ad9da5d24b75e41ee5) | [PDF]()
 - Decision Trees: [Notion](https://pmulard.notion.site/Decision-Trees-6798106e342240e29b7c515a0b84a548) | [PDF]()
 - Tree Ensembles: [Notion](https://pmulard.notion.site/Tree-Ensembles-276f268505184db89625d811faa39dd4) | [PDF]()
+- Clustering: [Notion](https://pmulard.notion.site/Clustering-178a2ac563c64fe3bdd3666d4b14efc2) | [PDF]()

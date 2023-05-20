@@ -21,7 +21,7 @@ Implementations are completed using Jupyter Notebooks and Python.
 4. [Neural Networks for Multiclass Classification](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Neural_Networks_for_Multiclass_Classification.ipynb)
 5. [Advice for Applying Machine Learning](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Advice_for_Applying_Machine_Learning.ipynb)
 6. [Decision Trees](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Decision_Trees.ipynb)
-7. []()
+7. [K-means Clustering](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/K-means_Clustering.ipynb)
 8. []()
 
 ## Notes

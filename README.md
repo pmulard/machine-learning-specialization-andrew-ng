@@ -1,4 +1,4 @@
-# Machine Learning Specilization with Andrew Ng
+# Machine Learning Specialization with Andrew Ng
 <p>
 This repository contains a collection of notes and implementations of machine learning algorithms from Andrew Ng's machine learning specialization.
 The specialization consists of three courses:

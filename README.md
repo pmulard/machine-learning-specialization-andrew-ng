@@ -15,15 +15,15 @@ Implementations are completed using Jupyter Notebooks and Python.
 </p>
 
 ## Programming Assignments
-1. [Linear Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Linear_Regression.ipynb)
-2. [Logistic Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Logistic_Regression.ipynb)
-3. [Multiclass Classification and Neural Networks](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Multi-class_Classification_and_Neural_Networks.ipynb)
-4. [Neural Networks for Multiclass Classification](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Neural_Networks_for_Multiclass_Classification.ipynb)
-5. [Advice for Applying Machine Learning](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Advice_for_Applying_Machine_Learning.ipynb)
-6. [Decision Trees](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Decision_Trees.ipynb)
-7. [K-means Clustering](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/K-means_Clustering.ipynb)
-8. [Anomaly Detection](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Anomaly_Detection.ipynb)
-9. [Collaborative Filtering Recommender Systems](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Collaborative_Recommender_Systems.ipynb)
+1. [Linear Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Linear_Regression.ipynb)
+2. [Logistic Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Logistic_Regression.ipynb)
+3. [Multiclass Classification and Neural Networks](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Multi-class_Classification_and_Neural_Networks.ipynb)
+4. [Neural Networks for Multiclass Classification](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Neural_Networks_for_Multiclass_Classification.ipynb)
+5. [Advice for Applying Machine Learning](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Advice_for_Applying_Machine_Learning.ipynb)
+6. [Decision Trees](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Decision_Trees.ipynb)
+7. [K-means Clustering](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/K-means_Clustering.ipynb)
+8. [Anomaly Detection](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Anomaly_Detection.ipynb)
+9. [Collaborative Filtering Recommender Systems](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Collaborative_Recommender_Systems.ipynb)
 10. 
 11. 
 

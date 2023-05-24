@@ -23,6 +23,9 @@ Implementations are completed using Jupyter Notebooks and Python.
 6. [Decision Trees](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Decision_Trees.ipynb)
 7. [K-means Clustering](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/K-means_Clustering.ipynb)
 8. [Anomaly Detection](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Anomaly_Detection.ipynb)
+9. 
+10. 
+11. 
 
 ## Notes
 <p>

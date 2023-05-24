@@ -23,7 +23,7 @@ Implementations are completed using Jupyter Notebooks and Python.
 6. [Decision Trees](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Decision_Trees.ipynb)
 7. [K-means Clustering](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/K-means_Clustering.ipynb)
 8. [Anomaly Detection](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Anomaly_Detection.ipynb)
-9. 
+9. [Collaborative Filtering Recommender Systems](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/Collaborative_Recommender_Systems.ipynb)
 10. 
 11. 
 
@@ -49,3 +49,4 @@ I originally wrote these notes in Notion, which I've provided links for, but I'v
 - Tree Ensembles: [Notion](https://pmulard.notion.site/Tree-Ensembles-276f268505184db89625d811faa39dd4) | [PDF]()
 - Clustering: [Notion](https://pmulard.notion.site/Clustering-178a2ac563c64fe3bdd3666d4b14efc2) | [PDF]()
 - Anomaly Detection: [Notion](https://pmulard.notion.site/Anomaly-Detection-d0c0c8d73d1d44e9bcd0f374aa56022c) | [PDF]()
+- Recommender Systems: [Notion](https://pmulard.notion.site/Recommender-Systems-2552d55ed0c14043a3b7e0246ea89421) | [PDF]()

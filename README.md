@@ -50,3 +50,4 @@ I originally wrote these notes in Notion, which I've provided links for, but I'v
 - Clustering: [Notion](https://pmulard.notion.site/Clustering-178a2ac563c64fe3bdd3666d4b14efc2) | [PDF]()
 - Anomaly Detection: [Notion](https://pmulard.notion.site/Anomaly-Detection-d0c0c8d73d1d44e9bcd0f374aa56022c) | [PDF]()
 - Recommender Systems: [Notion](https://pmulard.notion.site/Recommender-Systems-2552d55ed0c14043a3b7e0246ea89421) | [PDF]()
+- Principle Component Analysis: [Notion](https://www.notion.so/pmulard/Principle-Component-Analysis-babdb72cec1349c8bddacf4017a31296?pvs=4) | [PDF]()

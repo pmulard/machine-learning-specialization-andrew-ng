@@ -37,18 +37,18 @@ The idea is that most of the course is covered using these notes in conjunction 
 Though, I highly suggest using Andrew's video series (free) and optional labs (paid), as he does a fantastic job of teaching.
 </p>
 <p>
-I originally wrote these notes in Notion, which I've provided links for, but I've also added PDF versions to the repo for accessibility. I suggest working through the collection in the order they are provided, as much of the knowledge builds upon itself.
+I originally wrote these notes in Notion, which I've provided links for below, but I've also added PDF versions to the repo for accessibility. I suggest working through the collection in the order they are provided, as much of the knowledge builds upon itself.
 </p>
 
-- Linear Regression: [Notion](https://pmulard.notion.site/Linear-Regression-82a77381f9504a65bcd8e1ae545aa4ed)
-- Gradient Descent: [Notion](https://pmulard.notion.site/Gradient-Descent-c8b5b3024f334f77bf2ee2016c0cdf69)
-- Logistic Regression: [Notion](https://www.notion.so/pmulard/Logistic-Regression-a55b93f722284e9ea110c6eb8ba6e49f?pvs=4)
-- Neural Networks: [Notion](https://www.notion.so/pmulard/Neural-Networks-7dd29cd37a024473ad3ca8caf3521be9?pvs=4)
-- Practical Machine Learning: [Notion](https://pmulard.notion.site/Practical-Machine-Learning-28f12b4adb1946ad9da5d24b75e41ee5)
-- Decision Trees: [Notion](https://pmulard.notion.site/Decision-Trees-6798106e342240e29b7c515a0b84a548)
-- Tree Ensembles: [Notion](https://pmulard.notion.site/Tree-Ensembles-276f268505184db89625d811faa39dd4)
-- Clustering: [Notion](https://pmulard.notion.site/Clustering-178a2ac563c64fe3bdd3666d4b14efc2)
-- Anomaly Detection: [Notion](https://pmulard.notion.site/Anomaly-Detection-d0c0c8d73d1d44e9bcd0f374aa56022c)
-- Recommender Systems: [Notion](https://pmulard.notion.site/Recommender-Systems-2552d55ed0c14043a3b7e0246ea89421)
-- Principle Component Analysis: [Notion](https://www.notion.so/pmulard/Principle-Component-Analysis-babdb72cec1349c8bddacf4017a31296?pvs=4)
-- Reinforcement Learning: [Notion](https://www.notion.so/pmulard/Reinforcement-Learning-aa891ed958024a9eb8481a0562e50343?pvs=4)
+- [Linear Regression](https://pmulard.notion.site/Linear-Regression-82a77381f9504a65bcd8e1ae545aa4ed)
+- [Gradient Descent](https://pmulard.notion.site/Gradient-Descent-c8b5b3024f334f77bf2ee2016c0cdf69)
+- [Logistic Regression](https://www.notion.so/pmulard/Logistic-Regression-a55b93f722284e9ea110c6eb8ba6e49f?pvs=4)
+- [Neural Networks](https://www.notion.so/pmulard/Neural-Networks-7dd29cd37a024473ad3ca8caf3521be9?pvs=4)
+- [Practical Machine Learning](https://pmulard.notion.site/Practical-Machine-Learning-28f12b4adb1946ad9da5d24b75e41ee5)
+- [Decision Trees](https://pmulard.notion.site/Decision-Trees-6798106e342240e29b7c515a0b84a548)
+- [Tree Ensembles](https://pmulard.notion.site/Tree-Ensembles-276f268505184db89625d811faa39dd4)
+- [Clustering](https://pmulard.notion.site/Clustering-178a2ac563c64fe3bdd3666d4b14efc2)
+- [Anomaly Detection](https://pmulard.notion.site/Anomaly-Detection-d0c0c8d73d1d44e9bcd0f374aa56022c)
+- [Recommender Systems](https://pmulard.notion.site/Recommender-Systems-2552d55ed0c14043a3b7e0246ea89421)
+- [Principle Component Analysis](https://www.notion.so/pmulard/Principle-Component-Analysis-babdb72cec1349c8bddacf4017a31296?pvs=4)
+- [Reinforcement Learning](https://www.notion.so/pmulard/Reinforcement-Learning-aa891ed958024a9eb8481a0562e50343?pvs=4)

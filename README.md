@@ -51,3 +51,4 @@ I originally wrote these notes in Notion, which I've provided links for, but I'v
 - Anomaly Detection: [Notion](https://pmulard.notion.site/Anomaly-Detection-d0c0c8d73d1d44e9bcd0f374aa56022c) | [PDF]()
 - Recommender Systems: [Notion](https://pmulard.notion.site/Recommender-Systems-2552d55ed0c14043a3b7e0246ea89421) | [PDF]()
 - Principle Component Analysis: [Notion](https://www.notion.so/pmulard/Principle-Component-Analysis-babdb72cec1349c8bddacf4017a31296?pvs=4) | [PDF]()
+- Reinforcement Learning: [Notion](https://www.notion.so/pmulard/Reinforcement-Learning-aa891ed958024a9eb8481a0562e50343?pvs=4) | [PDF]()

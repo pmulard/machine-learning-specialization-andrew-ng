@@ -25,7 +25,7 @@ Implementations are completed using Jupyter Notebooks and Python.
 8. [Anomaly Detection](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Anomaly_Detection.ipynb)
 9. [Collaborative Filtering Recommender Systems](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Collaborative_Recommender_Systems.ipynb)
 10. [Content-based Filtering Recommender Systems](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Content-based_Filtering_Recommender_Systems.ipynb)
-11. 
+11. [Reinforcement Learning](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Reinforcement_Learning.ipynb)
 
 ## Notes
 <p>

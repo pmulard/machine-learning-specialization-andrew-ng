@@ -37,7 +37,7 @@ The idea is that most of the course is covered using these notes in conjunction 
 Though, I highly suggest using Andrew's video series (free) and optional labs (paid), as he does a fantastic job of teaching.
 </p>
 <p>
-I originally wrote these notes in Notion, which I've provided links for below, but I've also added PDF versions to the repo for accessibility. I suggest working through the collection in the order they are provided, as much of the knowledge builds upon itself.
+I originally wrote these notes in Notion, which I've provided links for below. I suggest working through the collection in the order they are provided, as much of the knowledge builds upon itself.
 </p>
 
 - [Linear Regression](https://pmulard.notion.site/Linear-Regression-82a77381f9504a65bcd8e1ae545aa4ed)

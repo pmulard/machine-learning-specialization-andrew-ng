@@ -10,11 +10,12 @@ The specialization consists of three courses:
 
 3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
+## Programming Assignments
+
 <p>
-Implementations are completed using Jupyter Notebooks and Python.
+Lab assignments are completed using Jupyter Notebooks and Python. Any code I wrote is marked with "START CODE HERE, END CODE HERE", so it can be removed easily if wanting to complete the labs from a clean state.
 </p>
 
-## Programming Assignments
 1. [Linear Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Linear_Regression.ipynb)
 2. [Logistic Regression](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Logistic_Regression.ipynb)
 3. [Multiclass Classification and Neural Networks](https://nbviewer.org/github/pmulard/machine-learning-specialization-andrew-ng/blob/main/assignments/Multi-class_Classification_and_Neural_Networks.ipynb)
@@ -37,7 +38,7 @@ The idea is that most of the course is covered using these notes in conjunction 
 Though, I highly suggest using Andrew's video series (free) and optional labs (paid), as he does a fantastic job of teaching.
 </p>
 <p>
-I originally wrote these notes in Notion, which I've provided links for below. I suggest working through the collection in the order they are provided, as much of the knowledge builds upon itself.
+I originally wrote these notes in Notion, which I've provided links for below. PDF versions of these are uploaded into the notes folder of the repo for accessibility. I suggest working through the collection in the order they are provided, as much of the knowledge builds upon itself.
 </p>
 
 - [Linear Regression](https://pmulard.notion.site/Linear-Regression-82a77381f9504a65bcd8e1ae545aa4ed)
